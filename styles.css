@@ -1,0 +1,33 @@
+/* Global styles top of page */
+*{
+    /* font-family: sans-serif; */
+    margin: 1rem;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin-top: 1px;
+    border-radius: 30px;
+    -webkit-box-shadow: 14px 10px 15px 0px rgba(0,0,0,0.55);
+}
+
+img:hover {
+    opacity: 0.6;
+}
+
+h2{
+    margin-top: 40px
+}
+ul {
+    list-style: none;
+}
+
+/* body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+    font-family: sans-serif;
+    margin: 2rem;
+} */
